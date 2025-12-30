@@ -1,0 +1,2 @@
+# EasyTip
+Tip Calculator
